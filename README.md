@@ -1,2 +1,2 @@
 # 0main_openSAP_repo
-Main repository for openSAP work
+Main repository for [openSAP](http://opensap.com) openSAP work
